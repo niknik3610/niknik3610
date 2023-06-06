@@ -4,4 +4,5 @@
 - Speak German and English at a native level
 - Looking to work in Software Engineering
 
-#### To start, have a look at my pinned repositories. I am currently focusing on: Tetris-rs, a Rust/OpenGL implementation of Tetris
+#### To start, have a look at my pinned repositories. 
+I am currently focusing on: Learning TypeScript using Advent of Code
