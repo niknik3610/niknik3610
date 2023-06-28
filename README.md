@@ -5,4 +5,4 @@
 - Looking to work in Software Engineering
 
 #### To start, have a look at my pinned repositories. 
-I am currently focusing on: Learning TypeScript using Advent of Code
+I am currently focusing on: Creating battleship, once in ts and once in svelte
