@@ -5,4 +5,4 @@
 - Looking to work in Software Engineering
 
 #### To start, have a look at my pinned repositories. 
-I am currently focusing on: Creating battleship, once in ts and once in svelte
+I am currently focusing on: Creating battleship, using Typescript and Rust
