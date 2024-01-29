@@ -5,7 +5,3 @@
 
 #### To start, have a look at my pinned repositories. 
 I am currently focusing on: Building an Open Source Smart Home platform using Rust and Typescript + Vue for my Bachelor's Thesis
-
-
-#### My Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niknik3610)](https://github.com/anuraghazra/github-readme-stats)
