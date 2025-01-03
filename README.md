@@ -1,5 +1,4 @@
 ## Hi im Nik 👋
-- Currently in my Final Year of a Computer Science Bachelor
 - Experienced in Rust, Typescript and Java
 - Working as a Software Developer
 
